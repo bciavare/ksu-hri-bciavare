@@ -1,0 +1,19 @@
+C:\Users\Brandon\source\repos\arduino voice Recognition\arduino voice Recognition\bin\Debug\arduino voice Recognition.exe.config
+C:\Users\Brandon\source\repos\arduino voice Recognition\arduino voice Recognition\bin\Debug\arduino voice Recognition.exe
+C:\Users\Brandon\source\repos\arduino voice Recognition\arduino voice Recognition\bin\Debug\arduino voice Recognition.pdb
+C:\Users\Brandon\source\repos\arduino voice Recognition\arduino voice Recognition\obj\Debug\arduino voice Recognition.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\source\repos\arduino voice Recognition\arduino voice Recognition\obj\Debug\arduino_voice_Recognition.Form1.resources
+C:\Users\Brandon\source\repos\arduino voice Recognition\arduino voice Recognition\obj\Debug\arduino_voice_Recognition.Properties.Resources.resources
+C:\Users\Brandon\source\repos\arduino voice Recognition\arduino voice Recognition\obj\Debug\arduino voice Recognition.csproj.GenerateResource.Cache
+C:\Users\Brandon\source\repos\arduino voice Recognition\arduino voice Recognition\obj\Debug\arduino voice Recognition.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\arduino voice Recognition\arduino voice Recognition\obj\Debug\arduino voice Recognition.exe
+C:\Users\Brandon\source\repos\arduino voice Recognition\arduino voice Recognition\obj\Debug\arduino voice Recognition.pdb
+C:\Users\bdon1\Desktop\Arduino speech project\arduino voice Recognition\arduino voice Recognition\bin\Debug\arduino voice Recognition.exe.config
+C:\Users\bdon1\Desktop\Arduino speech project\arduino voice Recognition\arduino voice Recognition\bin\Debug\arduino voice Recognition.exe
+C:\Users\bdon1\Desktop\Arduino speech project\arduino voice Recognition\arduino voice Recognition\bin\Debug\arduino voice Recognition.pdb
+C:\Users\bdon1\Desktop\Arduino speech project\arduino voice Recognition\arduino voice Recognition\obj\Debug\arduino voice Recognition.csprojResolveAssemblyReference.cache
+C:\Users\bdon1\Desktop\Arduino speech project\arduino voice Recognition\arduino voice Recognition\obj\Debug\arduino_voice_Recognition.Form1.resources
+C:\Users\bdon1\Desktop\Arduino speech project\arduino voice Recognition\arduino voice Recognition\obj\Debug\arduino_voice_Recognition.Properties.Resources.resources
+C:\Users\bdon1\Desktop\Arduino speech project\arduino voice Recognition\arduino voice Recognition\obj\Debug\arduino voice Recognition.csproj.GenerateResource.Cache
+C:\Users\bdon1\Desktop\Arduino speech project\arduino voice Recognition\arduino voice Recognition\obj\Debug\arduino voice Recognition.exe
+C:\Users\bdon1\Desktop\Arduino speech project\arduino voice Recognition\arduino voice Recognition\obj\Debug\arduino voice Recognition.pdb
